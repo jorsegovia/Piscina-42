@@ -1,0 +1,5 @@
+Credentials cache: API:B7FDEB01-D3FB-4B20-A334-737BCB701518
+        Principal: jsegovia@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 25 16:40:06 2021  Nov 26 02:40:00 2021  krbtgt/42MADRID.COM@42MADRID.COM
